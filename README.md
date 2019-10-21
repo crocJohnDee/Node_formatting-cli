@@ -1,4 +1,4 @@
-## Instructions for students:
+## Instructions:
 
 ### Formatting CLI
 
@@ -47,15 +47,8 @@ Steps to create your program:
     -   'BERLIN' => 'Berlin'
     -   'aSIa' => 'Asia'
 
-**Bonuses**
 
--   Your program should be able to remove symbols.
 
-### Rules
-
--   This is an individual assignment.
--   Deadline: 30 minutes.
--   Use **Git properly**
 
 
 
